@@ -1,0 +1,19 @@
+{
+  "name": "svg-icon-pack",
+  "version": "0.0.0-beta",
+  "description": "Export a folder of svg files into a json file with optimized svg tags; with the file name being the key and the svg file content being the value",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "svg",
+    "optimized"
+  ],
+  "author": "Ali Rahmani",
+  "license": "ISC",
+  "dependencies": {
+    "svgo": "^3.0.2"
+  }
+}
